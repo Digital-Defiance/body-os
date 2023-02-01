@@ -1,4 +1,10 @@
-# BodyOsFirebase
+# BodyOS
+Coming soon/eventually/?
+Time management that keeps track of what you like and need to do to keep all of the various aspects of you healthy- your physical body, your athletic build/body building, your musical skill, just any skill at all.
+Eventually we'll add a Body Knowledge Base and ChatGPT (or something) help bot to help be a friend/peer counselor/diagnostician and give you ideas to talk with your therapist or doctor about. Maybe "Chat with your body" powered by AI.
+
+-----
+# Developing
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
