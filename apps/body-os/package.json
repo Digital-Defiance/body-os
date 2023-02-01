@@ -1,0 +1,12 @@
+{
+  "name": "body-os",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jessie Mercurial <jessica@brightchain.org>",
+  "license": ""
+}
+
